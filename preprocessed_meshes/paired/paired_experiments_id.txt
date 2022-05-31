@@ -1,0 +1,45 @@
+TABLE
+=================
+table_parts_1:
+    content_id = '1aba52edddfad70d1bf0233e4c77d163'
+    style_id = '1a9ea91307d15d91f51f77a6d7299806'
+
+table_parts_2:
+    content_id = '1a80520ab14439ef79b3e1be3524f72f'
+    style_id = '1c6eb4cd121175f5d009c98a5b96836'
+
+
+
+LAMP
+=================
+lamp_parts: the usual
+
+lamp_parts_1:
+    content_id = '1ac102f4a452771521e935c3c465f9f'
+    style_id = '1c2327fed3930660177f2a3a0c71fbcd'
+
+lamp_parts_2:
+    content_id = '1facaa0eb35496fb69783ac218a8a2bf'
+    style_id = '2af318d179f969aecbde89e0c48a01bf'
+
+lamp_parts_3:
+    content_id = '3a0719c32c45c16f96791035e86a30f4'
+    style_id = '3a5a0f4c78e17b284f0c4075db76b7c'
+
+lamp_parts_4:
+    content_id = '1c7f8ad295bcc3795a233e989a47d3aa'
+    style_id = '1c2327fed3930660177f2a3a0c71fbcd'
+
+lamp_parts_5:
+    content_id = '3e1a71694488a4cd77b98fdac17a3204'
+    style_id = '2f46b8a15b15439d713f2e93cbeac35d'
+
+
+
+CHAIR
+==================
+chair_parts:
+    content_id = 1a6f615e8b1b5ae4dbbc9440457e303e
+    style_id = 1aa07508b731af79814e2be0234da26c
+
+
